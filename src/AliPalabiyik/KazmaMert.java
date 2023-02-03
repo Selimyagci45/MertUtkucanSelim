@@ -20,6 +20,8 @@ public class KazmaMert {
         int[] numbersAnother = {1, 45, 74, 78, 58};
         numbers[2] = numbersAnother;
         System.out.println(Arrays.deepToString(numbers));
+        System.out.println("ben boyle hakemlerle ligin manasini bulamiyorum");
+        System.out.println("mert ve utkucuan cok ders calisiyorlar,");
     }
 }
 
